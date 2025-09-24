@@ -9,22 +9,22 @@ const FAQ: { question: string; answer: string }[] = [
   {
     question: "How much does it cost to use Rockbell?",
     answer:
-      "Rockbell has a free tier where you can list events and receive booking enquiries by email. You can also add tickets and only pay a 4.99% commission on any sales with no upfront costs. If you&apos;d prefer to take bookings on your own site, our £8/month Booking Links plan lets you add direct booking buttons to your listings and track clicks through to your website.",
+      "Rockbell has a free tier where you can list industrial events and receive booking enquiries by email. You can also add tickets and only pay a 4.99% commission on any sales with no upfront costs. If you&apos;d prefer to take bookings on your own site, our £8/month Booking Links plan lets you add direct booking buttons to your listings and track clicks through to your website.",
   },
   {
-    question: "How can Rockbell help me reach more parents?",
+    question: "How can Rockbell help me reach more industry professionals?",
     answer:
-      "Every day, thousands of parents use Rockbell to find classes, camps and activities for their children. Your listings appear in localised search results by age and location, so you're discovered by the families most likely to book.",
+      "Every day, thousands of industry professionals use Rockbell to find machinery demonstrations, industrial training, and networking events. Your listings appear in localized search results by industry sector and location, so you're discovered by the professionals most likely to attend.",
   },
   {
     question: "Can I manage bookings directly on my website?",
     answer:
-      "Yes you can! With the Booking Links plan, you can add direct booking buttons to your listings and send parents to your own site to complete the booking. You&apos;ll also be able to track how many clicks you're getting.",
+      "Yes you can! With the Booking Links plan, you can add direct booking buttons to your listings and send professionals to your own site to complete the registration. You&apos;ll also be able to track how many clicks you're getting.",
   },
   {
     question: "How does customer support work?",
     answer:
-      "Our team is here to support you. All plans include organiser support, and we&apos;re happy to help by email or set up a call if needed. Whether you need help setting up your listing or choosing the right plan, we're here to make things easy.",
+      "Our team is here to support you. All plans include organizer support, and we&apos;re happy to help by email or set up a call if needed. Whether you need help setting up your industrial event listing or choosing the right plan, we're here to make things easy.",
   },
   {
     question: "Is there a free trial or demo available?",
@@ -48,8 +48,8 @@ export default function FAQSection() {
               FAQs{" "}
             </h2>
             <p className="mx-auto max-w-2xl text-gray-500">
-              Common questions about using Rockbell to grow your children&apos;s
-              activities business.
+              Common questions about using Rockbell to grow your industrial
+              events business.
             </p>
           </div>
         </div>

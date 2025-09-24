@@ -14,10 +14,10 @@ export default function StatsSection() {
             <div className="p-6">
               <div className="space-y-4">
                 <p className="text-5xl font-bold tracking-tighter text-secondary md:text-6xl">
-                  150,000+
+                  50,000+
                 </p>
                 <h3 className="text-xl font-semibold">
-                  London parents searching
+                  Industry professionals searching
                 </h3>
               </div>
             </div>
@@ -29,7 +29,9 @@ export default function StatsSection() {
                 <p className="text-5xl font-bold tracking-tighter text-secondary md:text-6xl">
                   300+
                 </p>
-                <h3 className="text-xl font-semibold">Businesses listed</h3>
+                <h3 className="text-xl font-semibold">
+                  Industrial events listed
+                </h3>
               </div>
             </div>
           </div>
@@ -40,7 +42,9 @@ export default function StatsSection() {
                 <p className="text-5xl font-bold tracking-tighter text-secondary md:text-6xl">
                   100%
                 </p>
-                <h3 className="text-xl font-semibold">Trusted by organisers</h3>
+                <h3 className="text-xl font-semibold">
+                  Trusted by event organizers
+                </h3>
               </div>
             </div>
           </div>

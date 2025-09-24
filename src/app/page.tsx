@@ -13,8 +13,8 @@ export default function Home() {
     <>
       <HeroSection />
       <FindEventsSection
-        heading="Are you a parent?"
-        subheading="Search for events on Rockbell for free"
+        heading="Are you an industry professional?"
+        subheading="Search for machinery and industrial events on Rockbell for free"
         buttonText="Search for events"
         href="/events"
         buttonVariant="secondary"
@@ -24,27 +24,27 @@ export default function Home() {
       <PartnerLogos />
       <div className="container justify-center items-center flex w-full flex-col gap-12 py-12 md:gap-12 md:py-24 lg:py-32">
         <MediaTextSection
-          title="Reach 100,000+ London parents"
-          description="Tap into London's largest community of engaged families searching for baby, toddler and children's activities. Every day, parents look for classes like yours. List and be one of the top results they see."
-          imageSrc="/reach-parents.webp"
-          imageAlt="Reach 100,000+ London parents"
+          title="Reach 100,000+ industry professionals"
+          description="Tap into the largest community of engaged industry professionals searching for machinery, equipment and industrial events. Every day, professionals look for events like yours. List and be one of the top results they see."
+          imageSrc="/workers.jpg"
+          imageAlt="Reach 100,000+ industry professionals"
           href="/events"
           buttonText="List for Free"
           imagePosition="right"
         />
         <MediaTextSection
-          title="Be discovered by local families"
-          description="Parents across London use Rockbell to find local activities. By listing with us, your classes appear where it counts, based on age, location and interest, so you're seen by the families most likely to book."
-          imageSrc="/be-discovered.webp"
-          imageAlt="Be discovered by local families"
+          title="Be discovered by local businesses"
+          description="Industry professionals use Rockbell to find local machinery and equipment events. By listing with us, your events appear where it counts, based on industry, location and specialization, so you're seen by the businesses most likely to attend."
+          imageSrc="/colleagues.jpg"
+          imageAlt="Be discovered by local businesses"
           href="/events"
           buttonText="List for Free"
           imagePosition="left"
         />
         <MediaTextSection
           title="Add booking links to drive traffic"
-          description="With our paid Booking Links tier, you can add direct booking links to your listings and track clicks. This helps you convert views into signups on your own website."
-          imageSrc="/more-bookings.webp"
+          description="With our paid Booking Links tier, you can add direct booking links to your listings and track clicks. This helps you convert views into registrations on your own website."
+          imageSrc="/factory.jpg"
           imageAlt="Add booking links to drive traffic"
           href="/events"
           buttonText="List for Free"
@@ -52,16 +52,16 @@ export default function Home() {
         />
       </div>
       <FindEventsSection
-        heading="Join other top providers in London"
-        subheading="Rockbell is trusted by 300+ organisers to promote their events."
+        heading="Join other top industry providers"
+        subheading="Rockbell is trusted by 300+ organizers to promote their industrial events."
         buttonText="Start Listing for free"
         href="/signup"
         buttonVariant="primary"
       />
       <Testimonials />
       <FindEventsSection
-        heading="Ready to reach more families?"
-        subheading="Start listing your classes where families are already searching."
+        heading="Ready to reach more industry professionals?"
+        subheading="Start listing your events where professionals are already searching."
         buttonText="Start Listing for free"
         href="/signup"
         buttonVariant="primary"
@@ -71,7 +71,7 @@ export default function Home() {
       <StatsSection />
       <FindEventsSection
         heading="Start getting discovered today"
-        subheading="List your activities by age and location so the right families find you."
+        subheading="List your industrial activities by sector and location so the right professionals find you."
         buttonText="Start Listing for free"
         href="/signup"
         buttonVariant="primary"

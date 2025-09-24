@@ -90,7 +90,7 @@ export default function ContactForm() {
         <div className="flex pb-6 justify-center">
           <Button
             type="submit"
-            className="bg-amber-400 text-black hover:bg-amber-500"
+            className="bg-primary text-white hover:bg-primary/80"
           >
             Send message
           </Button>

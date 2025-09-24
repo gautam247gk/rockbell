@@ -8,15 +8,16 @@ export default function HeroSection() {
         <div className="flex flex-col items-center gap-10 text-center">
           <div className="flex flex-col items-center justify-center gap-6">
             <h1 className="max-w-3xl text-4xl font-bold tracking-tighter text-secondary dark:text-foreground sm:text-5xl md:max-w-xl md:text-6xl leading-normal md:leading-normal">
-              List your events on{" "}
+              List your industrial events on{" "}
               <span className="inline-flex align-bottom">
-                <Logo className="inline h-[1.5em] w-auto align-bottom" />
+                <Logo className="inline h-[1.9em] w-auto align-bottom" />
               </span>{" "}
               for free
             </h1>
             <p className="mx-auto w-full max-w-4xl text-secondary/90 dark:text-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-              Get discovered by thousands of people searching for local events.
-              Add your events in minutes and start receiving enquiries.
+              Get discovered by thousands of industry professionals searching
+              for machinery events. Add your industrial events in minutes and
+              start receiving enquiries.
             </p>
           </div>
           <div className="mt-10 flex justify-center">

@@ -78,7 +78,7 @@ export function SiteHeader() {
       <div className="container max-w-7xl px-4 md:px-6">
         <div className="grid w-full grid-cols-2 items-center justify-between py-2 md:grid-cols-3">
           <Link href="/" className="flex items-center justify-start gap-2">
-            <Logo />
+            <Logo className="h-15 w-auto" />
             <span className="sr-only">Rockbell</span>
           </Link>
 

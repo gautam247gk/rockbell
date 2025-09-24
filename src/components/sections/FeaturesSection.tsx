@@ -13,12 +13,12 @@ export default function FeaturesSection() {
         <div className="max-w-2xl space-y-4">
           <p className="text-sm  font-semibold">Tools for growth</p>
           <h2 className="text-2xl font-bold  sm:text-3xl md:text-4xl">
-            Get seen by local families, with less effort.
+            Get seen by industry professionals, with less effort.
           </h2>
           <p className="mx-auto max-w-2xl text-gray-500">
-            Rockbell helps you reach more London parents without spending hours
-            on marketing. List your events for free, boost your visibility, and
-            bring in more local leads.
+            Rockbell helps you reach more industry professionals without
+            spending hours on marketing. List your industrial events for free,
+            boost your visibility, and bring in more qualified leads.
           </p>
         </div>
 
@@ -29,8 +29,9 @@ export default function FeaturesSection() {
             </div>
             <h3 className="text-xl font-bold">Get discovered locally</h3>
             <p className="text-center text-gray-500">
-              Be found by parents searching for activities near them. Your
-              listings show up in relevant searches across London.
+              Be found by professionals searching for machinery and industrial
+              events near them. Your listings show up in relevant searches
+              across your region.
             </p>
           </div>
 
@@ -41,7 +42,8 @@ export default function FeaturesSection() {
             <h3 className="text-xl font-bold">Promote your events</h3>
             <p className="text-center text-gray-500">
               Appear in high-traffic spots on Rockbell, and get featured in our
-              newsletters. Stand out to the right families at the right time.
+              newsletters. Stand out to the right industry professionals at the
+              right time.
             </p>
           </div>
 
@@ -52,8 +54,8 @@ export default function FeaturesSection() {
             <h3 className="text-xl font-bold">Add booking links</h3>
             <p className="text-center text-gray-500">
               Upgrade with Booking Links (optional) to add direct booking
-              buttons and track how many parents are clicking through to your
-              site.
+              buttons and track how many professionals are clicking through to
+              your site.
             </p>
           </div>
         </div>

@@ -83,7 +83,7 @@ export default function SignupUser() {
         </div>
 
         <div className="flex justify-end">
-          <Button type="submit" className="bg-primary text-primary-foreground">
+          <Button type="submit" className="bg-primary text-white">
             Next
           </Button>
         </div>

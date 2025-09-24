@@ -58,10 +58,7 @@ export default function LoginPage() {
           </p>
 
           <div className="flex justify-end">
-            <Button
-              type="submit"
-              className="bg-primary text-primary-foreground"
-            >
+            <Button type="submit" className="bg-primary text-white">
               Log in
             </Button>
           </div>

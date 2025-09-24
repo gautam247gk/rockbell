@@ -23,12 +23,12 @@ export default function PricingSection() {
         <div className="max-w-2xl space-y-4">
           <p className="text-sm  font-semibold">Pricing</p>
           <h2 className="text-2xl font-bold  sm:text-3xl md:text-4xl">
-            Made for event organisers like you
+            Made for industrial event organizers like you
           </h2>
           <p className="mx-auto max-w-2xl text-gray-500">
-            We&apos;ve worked with hundreds of organisers to create pricing
-            that&apos;s simple, flexible and designed to support your business
-            at every stage.
+            We&apos;ve worked with hundreds of industrial event organizers to
+            create pricing that&apos;s simple, flexible and designed to support
+            your business at every stage.
           </p>
         </div>
 
@@ -49,7 +49,8 @@ export default function PricingSection() {
                     <span className="text-base font-medium" />
                   </div>
                   <CardDescription>
-                    List your events and get parent enquiries—100% free.
+                    List your industrial events and get professional
+                    enquiries—100% free.
                   </CardDescription>
                 </div>
 
@@ -74,7 +75,7 @@ export default function PricingSection() {
                       <div className="mt-0.5 text-secondary">
                         <Check className="h-4 w-4" />
                       </div>
-                      <div className="text-sm">Organiser support</div>
+                      <div className="text-sm">Organizer support</div>
                     </li>
                   </ul>
                 </div>
@@ -144,7 +145,7 @@ export default function PricingSection() {
                       <div className="mt-0.5 text-secondary">
                         <Check className="h-4 w-4" />
                       </div>
-                      <div className="text-sm">Organiser support</div>
+                      <div className="text-sm">Organizer support</div>
                     </li>
                   </ul>
                 </div>
@@ -217,7 +218,7 @@ export default function PricingSection() {
                       <div className="mt-0.5 text-secondary">
                         <Check className="h-4 w-4" />
                       </div>
-                      <div className="text-sm">Organiser support</div>
+                      <div className="text-sm">Organizer support</div>
                     </li>
                     <li className="flex items-start gap-3">
                       <div className="mt-0.5 text-secondary">
